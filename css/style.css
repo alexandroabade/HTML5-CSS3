@@ -5,7 +5,7 @@ body {
 }
 .container {
 	margin: 0 auto;
-	width: 960px;
+	width: 660px;
 }
 .place {
 	background-color: #FFF;
@@ -21,6 +21,9 @@ body {
 .place a {
 	color: #2C88A7;
 	font-weight: bold;
+}
+h1 {
+	text-align: center;
 }
 h1 a {
 	color: #7E9F19;
@@ -44,14 +47,22 @@ h1 a:hover {
 	text-align: center;
 }
 .sidenote {
-background-color: #FFFBE4;
-border: 1px solid #C9BC8F;
-padding: 10px;
+	background-color: #FFFBE4;
+	border: 1px solid #C9BC8F;
+	float: right;	
+	padding: 10px;
+	margin-top: 95px;
+	width: 260px;
 }
 .sidenote h3 {
-font-size: 14px;
-margin-top: 0;
+	font-size: 14px;
+	margin-top: 0;
 }
 .sidenote ol {
-font-size: 12px;
+	font-size: 12px;
+	float: right;
+}
+.places {
+	float: left;
+	width: 360px;
 }
