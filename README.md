@@ -1,7 +1,12 @@
-# O Que Mais Gosto em São Paulo
+# HTML5 e CSS3 
+### Domine a web do futuro
 
-## Desenvolver um dos projetos do curso "HTML5 e CSS3 Domine a Web do Futuro".
-[HTML5 e CSS3 Domine a Web do Futuro / e-Book - Casa do Código]
+O propósito aqui é fazer esses projetos de forma elegante e simples com HTML5 e CSS3 através do e-Book da Casa do Código :orange_book:
+Construir menus, aplicar efeitos, estilizar elementos visuais, melhorar a semântica da sua aplicação web.
 
-## Fazendo exercícios tirados do e-Book
-1ª Exercício - Construir uma página que mostre pontos turísticos de São Paulo.
+## Lista de contrução dos projetos/exercícios :pencil2: tirados do e-Book :green_book:
+---
+
+### → O Que Mais Gosto em São Paulo :office:
+
+- 1º Exercício - Construir uma página que mostre pontos turísticos da cidade de São Paulo. :city_sunrise:
